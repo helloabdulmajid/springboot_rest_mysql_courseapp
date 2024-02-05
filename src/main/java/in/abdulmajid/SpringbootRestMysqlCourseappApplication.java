@@ -8,6 +8,7 @@ public class SpringbootRestMysqlCourseappApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootRestMysqlCourseappApplication.class, args);
+		System.out.println("Running");
 	}
 
 }
